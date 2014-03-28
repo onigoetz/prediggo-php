@@ -1,0 +1,14 @@
+{
+    "name": "onigoetz/prediggo-php",
+    "description": "PHP implementation of the prediggo API",
+    "keywords": ["prediggo"],
+    "homepage": "http://www.prediggo.com",
+    "autoload": {
+        "psr-4": {
+            "Prediggo\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
